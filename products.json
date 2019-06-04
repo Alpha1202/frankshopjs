@@ -1,0 +1,316 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "queen panel bed",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "king panel bed",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/product-2.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "single panel bed",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "twin panel bed",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/product-4.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "fridge",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "dresser",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "couch",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "table",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+      }
+    },
+   {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "wireless mouse",
+        "price": 76.99,
+        "image": { "fields": { "file": { "url": "./images/wireless-mouse.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "adidas shoe",
+        "price": 46.99,
+        "image": { "fields": { "file": { "url": "./images/adidas.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "4D camera",
+        "price": 146.99,
+        "image": { "fields": { "file": { "url": "./images/camera.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "High Quality Headset",
+        "price": 86.99,
+        "image": { "fields": { "file": { "url": "./images/headset.jpg" } } }
+      }
+    },
+     {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "wireless Keypad",
+        "price": 200.99,
+        "image": { "fields": { "file": { "url": "./images/keypad.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "adidas shoe",
+        "price": 120.99,
+        "image": { "fields": { "file": { "url": "./images/adidas.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "15" },
+      "fields": {
+        "title": "adidas shoe",
+        "price": 120.99,
+        "image": { "fields": { "file": { "url": "./images/adidas-shoe.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "16" },
+      "fields": {
+        "title": "all star shoe",
+        "price": 120.99,
+        "image": { "fields": { "file": { "url": "./images/allstar-shoe.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "17" },
+      "fields": {
+        "title": "all in one apple pack",
+        "price": 500.99,
+        "image": { "fields": { "file": { "url": "./images/apple-gadgets.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "18" },
+      "fields": {
+        "title": "apple wrist watch",
+        "price": 330.99,
+        "image": { "fields": { "file": { "url": "./images/apple-watch.jpg" } } }
+      }
+    },
+     {
+      "sys": { "id": "19" },
+      "fields": {
+        "title": "portable travelling bag",
+        "price": 270.99,
+        "image": { "fields": { "file": { "url": "./images/bag.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "20" },
+      "fields": {
+        "title": "high quality bluetooth speaker",
+        "price": 150.99,
+        "image": { "fields": { "file": { "url": "./images/bluetooth-loudspeaker.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "21" },
+      "fields": {
+        "title": "kitchen pot",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "./images/ceramics-pot.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "22" },
+      "fields": {
+        "title": "original designers handbag",
+        "price": 122.99,
+        "image": { "fields": { "file": { "url": "./images/designer-bag.jpg" } } }
+      }
+    },
+     {
+      "sys": { "id": "23" },
+      "fields": {
+        "title": "original designers handbag",
+        "price": 101.99,
+        "image": { "fields": { "file": { "url": "./images/designerbag.jpg" } } }
+      }
+    },
+     {
+      "sys": { "id": "24" },
+      "fields": {
+        "title": "4D high definition drone",
+        "price": 270.99,
+        "image": { "fields": { "file": { "url": "./images/drone.jpg" } } }
+      }
+    },
+     {
+      "sys": { "id": "25" },
+      "fields": {
+        "title": "versace sunglasses",
+        "price": 220.99,
+        "image": { "fields": { "file": { "url": "./images/glasses.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "26" },
+      "fields": {
+        "title": "high quality headset",
+        "price": 50.99,
+        "image": { "fields": { "file": { "url": "./images/headset.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "27" },
+      "fields": {
+        "title": "iphone 6x",
+        "price": 389.99,
+        "image": { "fields": { "file": { "url": "./images/iphone.jpg" } } }
+      }
+    },
+     {
+      "sys": { "id": "28" },
+      "fields": {
+        "title": "macbook laptop",
+        "price": 699.99,
+        "image": { "fields": { "file": { "url": "./images/macbook.jpg" } } }
+      }
+    },
+     {
+      "sys": { "id": "29" },
+      "fields": {
+        "title": "makeip kit",
+        "price": 143.99,
+        "image": { "fields": { "file": { "url": "./images/makeup.jpg" } } }
+      }
+    },
+     {
+      "sys": { "id": "30" },
+      "fields": {
+        "title": "finger cortex",
+        "price": 14.99,
+        "image": { "fields": { "file": { "url": "./images/makeup-cortex.jpg" } } }
+      }
+    },
+     {
+      "sys": { "id": "31" },
+      "fields": {
+        "title": "nike designers sneakers",
+        "price": 412.99,
+        "image": { "fields": { "file": { "url": "./images/nike-shoe.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "32" },
+      "fields": {
+        "title": "high quality men t-shirt",
+        "price": 82.99,
+        "image": { "fields": { "file": { "url": "./images/polo.jpg" } } }
+      }
+    },
+     {
+      "sys": { "id": "33" },
+      "fields": {
+        "title": "3d ps4 game console",
+        "price": 282.99,
+        "image": { "fields": { "file": { "url": "./images/ps4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "34" },
+      "fields": {
+        "title": "hand santiziers",
+        "price": 60.99,
+        "image": { "fields": { "file": { "url": "./images/sanitizer.jpg" } } }
+      }
+    },
+     {
+      "sys": { "id": "35" },
+      "fields": {
+        "title": "men shoe",
+        "price": 60.99,
+        "image": { "fields": { "file": { "url": "./images/shoe.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "36" },
+      "fields": {
+        "title": "tablet",
+        "price": 310.99,
+        "image": { "fields": { "file": { "url": "./images/tablet.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "37" },
+      "fields": {
+        "title": "27inch television set",
+        "price": 101.99,
+        "image": { "fields": { "file": { "url": "./images/television.jpg" } } }
+      }
+    },
+     {
+      "sys": { "id": "38" },
+      "fields": {
+        "title": "18inch television set",
+        "price": 89.99,
+        "image": { "fields": { "file": { "url": "./images/tv-set.jpg" } } }
+      }
+    },
+     {
+      "sys": { "id": "39" },
+      "fields": {
+        "title": "led digital android watch",
+        "price": 389.99,
+        "image": { "fields": { "file": { "url": "./images/wristwatch.jpg" } } }
+      }
+    }
+  ]
+}
